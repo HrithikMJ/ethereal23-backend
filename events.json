@@ -1,0 +1,125 @@
+{
+  "events": [
+    {
+      "eventId": "event_1b5b6a00-e969-415b-866b-117c0418caf2",
+      "name": "BATTLE OF BANDS"
+    },
+    {
+      "eventId": "event_0c74e855-b81c-49a3-be21-942a9ba7a46a",
+      "name": "RAMP WALK"
+    },
+    {
+      "eventId": "event_5a9fc9bf-8f30-4eaf-bec0-c538a29d3e39",
+      "name": "ADZAP"
+    },
+    {
+      "eventId": "event_bc472cd8-8a19-438e-93dc-1b4ef6f91b1b",
+      "name": "LIGHTS, CAMERA,ACTION VARIETY"
+    },
+    {
+      "eventId": "event_9f72bb03-e90a-4227-a812-4b749d8697ff",
+      "name": "60 SEC'S TO FAME"
+    },
+    {
+      "eventId": "event_fdfc0951-41bc-4184-a45b-f1f5abb94656",
+      "name": "BLOCK & TACKLE"
+    },
+    {
+      "eventId": "event_5cb5ea4d-1aa6-42f8-ab79-99604f69193d",
+      "name": "RAP BATTLE"
+    },
+    {
+      "eventId": "event_af91212e-e535-4f13-9622-64f4eb818bc1",
+      "name": "SOLO SINGING"
+    },
+    {
+      "eventId": "event_7b4c5a18-4edc-4a32-8f70-f741fabf768a",
+      "name": "SHORT FILM"
+    },
+    {
+      "eventId": "event_03fbdcdd-2364-47af-ad92-03e9c2b25967",
+      "name": "DEBATE"
+    },
+    {
+      "eventId": "event_d1031ad2-3c17-46ee-95c6-080edf092087",
+      "name": "DUMB CHARADES"
+    },
+    {
+      "eventId": "event_0a35d505-84eb-4840-861c-0fd4b36c103e",
+      "name": "MEME CREATION"
+    },
+    { "eventId": "event_055dc6c3-a34c-4815-8b40-1d22c0be618a", "name": "JAM" },
+    {
+      "eventId": "event_eb9fb7db-6380-4b8b-933d-dcb441640830",
+      "name": "BOX CRICKET"
+    },
+    { "eventId": "event_7f5cf3d3-b867-474b-9610-5e3eefe32da1", "name": "BGMI" },
+    {
+      "eventId": "event_5d11ce2b-295c-412a-9110-e7fac7e4a6ad",
+      "name": "FREEFIRE"
+    },
+    {
+      "eventId": "event_30e0d893-ecaa-4105-8236-a6385152bae9",
+      "name": "VALORANT"
+    },
+    {
+      "eventId": "event_0d889b37-4282-4679-8f47-f242fc459488",
+      "name": "MR & MS ETHEREAL"
+    },
+    {
+      "eventId": "event_c5a6e5b8-7c9f-4be6-8cff-7b2da43859ba",
+      "name": "GROUP DANCE"
+    },
+    {
+      "eventId": "event_b03144c2-53dd-41db-ad70-5fd0a6b27078",
+      "name": "CHANNEL SURFING"
+    },
+    { "eventId": "event_a48d807a-2859-4c51-a135-7efe62c6b65b", "name": "MIME" },
+    {
+      "eventId": "event_603f1c5c-0fee-4c7c-9f11-4a8608cfd005",
+      "name": "MONO ACTING"
+    },
+    {
+      "eventId": "event_fbb497b4-244c-4016-8e9b-a0b1cc828ff0",
+      "name": "DANCE BATTLE"
+    },
+    {
+      "eventId": "event_dc57e98d-bb05-41dc-a8e5-851bad67e7a2",
+      "name": "SHIPWRECK"
+    },
+    {
+      "eventId": "event_fa5779a3-7742-47e4-82e3-991c03cc7340",
+      "name": "GREEN SCREEN"
+    },
+    {
+      "eventId": "event_4e9427c5-263b-4889-9f9f-76eda0d386ad",
+      "name": "IPL AUCTION"
+    },
+    { "eventId": "event_e362efe7-dfd0-4645-ad96-e09ecafe8f80", "name": "QUIZ" },
+    {
+      "eventId": "event_daf6c084-965d-45ee-85e9-8a8ca63f27eb",
+      "name": "TREASURE HUNT"
+    },
+    {
+      "eventId": "event_35821732-c1f1-43f6-9ded-c0b73b9e8f4f",
+      "name": "FACE PAINTING"
+    },
+    {
+      "eventId": "event_a27fb759-b0a7-403b-b0dc-b82bc96f39e9",
+      "name": "SLAM POETRY"
+    },
+    {
+      "eventId": "event_b2c39f42-6bf6-4fe6-87f8-6f740e6bd51f",
+      "name": "PHOTOGRAPHY"
+    },
+    {
+      "eventId": "event_477f244c-4999-449e-8a92-44b62ae92826",
+      "name": "FUTSAL"
+    },
+    {
+      "eventId": "event_5e437f5d-00cc-476d-901e-e61a4834240d",
+      "name": "COD MOBILE"
+    },
+    { "eventId": "event_595422d7-958e-44c3-aa5d-5ea075fed0bd", "name": "FIFA" }
+  ]
+}
