@@ -45,7 +45,7 @@ const emailTransporter = nodemailer.createTransport({
 
 const app = express();
 app.use(express.json());
-app.use(cors(corsOptions));
+// app.use(cors(corsOptions));
 
 //PayTm
 app.post("/initiateTransaction", async (req, res) => {
